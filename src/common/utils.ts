@@ -1,0 +1,3 @@
+const AMAP_APPLICATION_KEY = 'c289bb6ece06ae325eb47ec4e8358d43'
+
+export { AMAP_APPLICATION_KEY }
